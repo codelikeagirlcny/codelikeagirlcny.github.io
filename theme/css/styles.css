@@ -1,0 +1,3 @@
+/* Override container width for desktop so lines don't go on for so long*/
+/*@media(min-width:768px){.container{width:750px}}@media(min-width:992px){.container{width:970px}}*/
+@media(min-width:1200px){.container{width:1070px}}
